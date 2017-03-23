@@ -1,0 +1,8 @@
+{T} México{#T}
+{P}{n}México, cuyo nombre oficial es {b}Estados Unidos Mexicanos{#b}, {u}es un país de América, ubicado en la parte meridional de América del Norte.{#u} Su capital es la Ciudad de México. Políticamente es una república {i}democrática{#i}, representativa y federal compuesta por {u}32 entidades federativas{#u} (31 estados y la Ciudad de México).{#P}
+
+{P}El territorio mexicano tiene una superficie de 1 964 375 km², por lo que es el decimocuarto país más extenso del mundo y el tercero más grande de América Latina. Limita al norte con los Estados Unidos de América a lo largo de una frontera de 3155 km,2 mientras que al sur tiene una frontera de 958 km con Guatemala2 y 276 km con Belice;2 las costas del país limitan al oeste con el océano Pacífico y al este con el golfo de México y el mar Caribe, sumando 9 330 km,2 por lo que es el tercer país americano con mayor longitud de costas.{#P}
+{I} mexico.png {#I}
+{P}México es el undécimo país más poblado del mundo, con una población estimada de 119 millones de personas en 2015,3 la mayoría de las cuales tienen como lengua materna el español, al que el estado reconoce como lengua nacional junto a 67 lenguas indígenas propias de la nación. En el país se hablan alrededor de 287 idiomas; debido a las características de su población, es el país hispanohablante más poblado,así como el séptimo país con mayor diversidad lingüística en el mundo. {#P}
+{I} mapa.png {#I}
+
