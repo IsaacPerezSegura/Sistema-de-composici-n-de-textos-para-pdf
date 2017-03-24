@@ -1,0 +1,25 @@
+{T} México{#T}
+{P}{n}México, cuyo nombre oficial es {b}Estados Unidos Mexicanos{#b}, es un país de América, ubicado en la parte meridional de América del Norte. Su capital es la Ciudad de México. Políticamente es una república democrática, representativa y federal {u}compuesta por 32 entidades federativas (31 estados y la Ciudad de México).{#u}{n} {#P}
+{I} c:/mapa.png {#I}
+
+{C} 1.- Estado de México {#C}
+{P} {#P}
+{S}1.1.- Ciudad de México {#S}
+{P}La Ciudad de México, anteriormente conocida como Distrito Federal,es una entidad federativa mexicana, considerada oficialmente la capital del país. Se encuentra en el Valle de México, a una altitud media de 2240 metros. Tiene una superficie de 1495 kilómetros cuadrados, y se divide administrativamente en 16 demarcaciones territoriales o delegaciones.{#P}
+
+{S}1.2.- Poblacion {#S}
+{P}Su población es de 8.9 millones de habitantes aproximadamente; sin embargo, cuando se considera también la Zona Metropolitana del Valle de México,20 suma entonces una población total de más de 21 millones de habitantes, lo que la coloca como una de las mayores aglomeraciones urbanas del mundo y la más grande del continente americano y del mundo hispanoparlante. {n}{#P}
+
+{I} c:/cultura.jpg {#I}
+
+{P} {n}{n}{#P}
+
+{C} 2.- Principales lenguas de México {#C}
+{S} - Náhuatl {#S}
+{P} El náhuatl ({i}autoglotónimo nahuatlahtolli, que deriva de nahua-tl, «sonido claro o agradable» y tlahtol-li, «lengua o lenguaje»{#i}) es una macrolengua yuto-nahua que se habla en México. {n}{#P}
+
+{S} - Maya Yucateco{#S}
+{P} El idioma maya yucateco ({i}autoglotónimo: Maayat'aan{#i}) es una lengua amerindia derivada del tronco mayense, que se habla principalmente en estados mexicanos peninsulares de Yucatán, Campeche y Quintana Roo, en el norte de Guatemala, particularmente en el Petén así como en menor grado en Belice . {n}{#P}
+
+{S} - Mixteco{#S}
+{P} Las lenguas mixtecas son un conjunto de variedades lingüísticas de filiación otomangueana originarias de La Mixteca, una región de aproximadamente 40 000 kilómetros localizada en el sur de México. {#P}
