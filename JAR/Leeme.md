@@ -18,4 +18,4 @@ Donde Manifest:<br>
 Class-Path: lib/iText-5_0_5.jar lib/PDFRenderer.jar
 Main-Class: Menu.Menu
 <br>
-Nota: itext 5.0.5 no visualiza archivos PDF solo es capaz de extraer texto, por eso se ha incluido una libreria extra :D.
+<color red>Nota: itext 5.0.5 no visualiza archivos PDF solo es capaz de extraer texto, por eso se ha incluido una libreria extra :D.
