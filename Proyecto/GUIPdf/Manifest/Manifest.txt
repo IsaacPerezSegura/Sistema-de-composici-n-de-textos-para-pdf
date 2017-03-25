@@ -1,2 +1,0 @@
-Class-Path: lib/iText-5_0_5.jar
-Main-Class: Menu.Menu
